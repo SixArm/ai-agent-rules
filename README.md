@@ -1,10 +1,14 @@
-# AI agent rules
+# AI agents tips
 
-AI agent rules for many kinds of programming language, web frameworks, development libraries, and deployment systems.
+AI agents tips, especially agent.md markdown files full of AI contexts, AI
+instructions, and AI rules, to help guide your AI to help you.
+
+These files are for many kinds of programming language, web frameworks,
+development libraries, and deployment systems.
 
 ## Thanks
 
-The rules files come from the awesome repo:
+The files come from the awesome repo:
 
 - <https://github.com/pontusab/directories>
 
