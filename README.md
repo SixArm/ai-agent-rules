@@ -6,6 +6,8 @@ instructions, and AI rules, to help guide your AI to help you.
 These files are for many kinds of programming language, web frameworks,
 development libraries, and deployment systems.
 
+See also <https://agents.md/>
+
 ## Thanks
 
 The files come from the awesome repo:
